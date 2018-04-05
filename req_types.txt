@@ -1,0 +1,16 @@
+1.Antelope
+2.Bear
+3.Buffalo/Cow
+4.Dolphin
+5.Goat
+6.Seal
+7.Chicken
+8.Flamingo
+9.Duck
+10.Snake
+11.Bee
+12.fish
+13.Octopus
+14.Frog
+
+Each item 40 pics
